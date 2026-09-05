@@ -4,7 +4,7 @@ A single-page personal resume website for **Tamarra Sanders**, built with [Next.
 
 ## Live URL
 
-> Live deployment URL goes here once the site is deployed on Vercel.
+[https://aiworkshop-ochre.vercel.app](https://aiworkshop-ochre.vercel.app)
 
 ## Stack
 
